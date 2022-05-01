@@ -1,4 +1,3 @@
 # Android developer - ILYA
-## My projects:
 
-### [Notes](https://stslex.github.io/Notes/)
+Make web site - [link](https://stslex.github.io)
